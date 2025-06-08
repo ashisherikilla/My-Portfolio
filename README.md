@@ -23,7 +23,7 @@ Hi, I'm Ashish — a passionate Civil Engineering student from IIEST Shibpur who
 
 ## 🚀 Live Demo
 
-Check it out here: https://ashisherikilla.github.io/portfolio
+Check it out here: https://ashisherikilla.github.io/My-Portfolio
 
 ## 📫 Contact
 
